@@ -1,0 +1,23 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(16, 27, 88);
+    font-family: sans-serif;
+    padding: 0%;
+    margin: 0%;
+  }
+
+  /* calculator */
+.calculator {
+    width: 300px;
+    padding-bottom: 15px;
+    border-radius: 7px;
+    background-color: rgb(255, 0, 0);
+    box-shadow: 5px 8px 8px  rgba(214, 31, 31, 0.61);
+  }
+  /* calculator style end */
+
